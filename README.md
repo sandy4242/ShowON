@@ -1,2 +1,3 @@
 # ShowON
 An app where people can showcase their unique and antique collections.
+I have uploaded this through GIT for the first time... so ......
